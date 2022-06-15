@@ -25,7 +25,7 @@ I am 32 years old. I like to take part in the initial stages of the project to g
 
 # Skills
 
-- HTML/CSS
+- HTML5/CSS
 - JavaScript (Fundamentals, ES6)
 - Git/GitHub
 - Figma
