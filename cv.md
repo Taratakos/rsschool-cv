@@ -17,7 +17,11 @@
 
 I'm very honest and hardworking person. I consider myself to have a good organization skills. Also Im purposeful , reliable and sincere person. I'm actively involved in volunteering and an active way of life.
 I have begun to study independently Front-End Development and have already passed some demo-courses in HTML, CSS , JS.
-I really want to gain good knowledge in IT technologies and become professional programmer. I want to work, develop and study in a team with intelligent friendly people. I am sure that I am on the right way !
+For a great period of my life I played complex melodies on guitar and spent hours learning for tablature.
+As for me, coding is just like playing a guitar solo. Based on my experience of focusing and orienteering on the
+project, I can develop a logical and clear program. I am innovative, detail-oriented, industrious person who is looking
+for the first job as Front End Developer. I am ready to face new problems and struggle to throw them. Excited to gain
+new knowledge and use them in software engineering.
 
 ### My strengths:
 
@@ -61,6 +65,7 @@ const calculateTotalPrice = function (items) {
 
 console.log(calculateTotalPrice([54, 28, 105, 70, 92, 17, 120])); // 486
 ```
+
 ## Education
 
 - LVIV POLYTECHNIC NATIONAL UNIVERSITY \* Sep 2007 – Dec 2012 Specialist, Lviv Polytechnic National University.
