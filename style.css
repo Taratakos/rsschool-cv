@@ -83,7 +83,9 @@ strong {
 .info__content {
   width: 360px;
 }
+/* #endregion */
 
+/* #region job */
 .job {
   margin-top: 24px;
   border-left: 1px dashed #dee2ed;
@@ -107,6 +109,9 @@ strong {
   margin: 0;
   margin-top: 8px;
 }
+/* #endregion */
+
+/* #region study */
 
 .study {
   margin-top: 24px;
@@ -130,6 +135,103 @@ strong {
 .study__description {
   margin: 0;
   margin-top: 8px;
+}
+/* #endregion */
+
+/* #region skills */
+
+.skills {
+  display: flex;
+}
+
+.skills__list {
+  box-sizing: border-box;
+  margin: 0;
+  width: 50%;
+  border-left: 1px dashed #dee2ed;
+  padding-left: 8px;
+  list-style: none;
+}
+
+.skills__item {
+  margin-top: 8px;
+}
+
+.skills__item:first-child {
+  margin-top: 0;
+}
+
+/* #endregion */
+
+/* #region tools */
+
+.tools {
+  display: flex;
+}
+
+.tools__list {
+  box-sizing: border-box;
+  margin: 0;
+  width: 50%;
+  border-left: 1px dashed #dee2ed;
+  padding-left: 8px;
+  list-style: none;
+}
+
+.tools__item {
+  margin-top: 8px;
+}
+
+.tools__item:first-child {
+  margin-top: 0;
+}
+
+/* #endregion */
+
+/* #region languages */
+.languages {
+  display: flex;
+}
+
+.languages__list {
+  box-sizing: border-box;
+  margin: 0;
+  width: 50%;
+  border-left: 1px dashed #dee2ed;
+  padding-left: 8px;
+  list-style: none;
+}
+
+.languages__item {
+  margin-top: 8px;
+}
+
+.languages__item:first-child {
+  margin-top: 0;
+}
+/* #endregion */
+
+/* #region interests*/
+
+.interests {
+  display: flex;
+}
+
+.interests__list {
+  box-sizing: border-box;
+  margin: 0;
+  width: 50%;
+  border-left: 1px dashed #dee2ed;
+  padding-left: 8px;
+  list-style: none;
+}
+
+.interests__item {
+  margin-top: 8px;
+}
+
+.interests__item:first-child {
+  margin-top: 0;
 }
 
 /* #endregion */
